@@ -13,5 +13,6 @@ Year to date,
 * TX, NY & CA are contributing to 68%
 * Overall Activation rate is 57.5%
 * Overall Delinquent rate is 6.06%
+  
 Week over week, 
-Week 53 revenue increased by 28.8%
+* Week 53 revenue increased by 28.8%
